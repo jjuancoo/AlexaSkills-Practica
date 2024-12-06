@@ -10,7 +10,7 @@ por el M.T.I Marco A. Ramírez Hernández
 |No. |Nombre|Potenciador|Estatus|
 |--|--|--|--|
 |26|Creación de una skill para alexa|10|Activa|
-|07|Tarea sobre el reporte|10|Activa|
+|07|Tarea sobre el reporte|6|Activa|
 
 ## LISTA DE HERRAMIENTAS
 ![DART](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
