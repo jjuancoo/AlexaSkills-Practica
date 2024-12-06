@@ -188,4 +188,16 @@ Crear una sckill para alexa, aprendiendo a utilizar la consola para desarrollado
 ### Capturas de pantalla
 
 ![Captura de pantalla 2024-12-05 084943](https://github.com/user-attachments/assets/c072e887-25ab-441f-b07b-920d08ec80f8)
+1. Llamado personalizado
+![Captura de pantalla 2024-12-06 093703](https://github.com/user-attachments/assets/750c5939-d214-47e4-94b3-702bb7861530)
+
+2. Simulacion de alexa
+![Captura de pantalla 2024-12-06 094054](https://github.com/user-attachments/assets/255ea861-4a55-4723-b2c4-0d817e420165)
+
+### Conclusiones
+En conclusión, este proyecto de *Creando una skill para Alexa* me permitió implementar una skill personalizada que utiliza la API de OpenWeather para proporcionar información climática en tiempo real. Durante el desarrollo, aprendí a trabajar con la consola de desarrolladores de Amazon, configurar invocaciones personalizadas y vincular claves API en el código para obtener datos precisos.
+
+Además, exploré la estructura y manejo de intents en el Alexa Skills Kit, lo que me ayudó a comprender mejor cómo crear interacciones naturales con los usuarios. Este proyecto me permitió aplicar conocimientos técnicos de desarrollo móvil y habilidades para integrar servicios externos, logrando una solución funcional que refleja mi aprendizaje y crecimiento en el área.
+
+
 
